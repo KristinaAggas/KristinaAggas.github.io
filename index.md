@@ -47,7 +47,7 @@ A full regression analysis exploring how a country's income, child mortality, an
 
 ### **Bike Share Demand – Regression Modeling (2025-11-14)**
 
-_A full regression analysis exploring how seasonality, weather patterns, and environmental factors influence daily bike rentals._
+_A full regression analysis exploring how seasonality, weather patterns, and environmental factors influence daily bike rentals._ <br>
 👉 [Open Folder](https://github.com/KristinaAggas/data-analysis-projects/tree/main/2025-11-14)
 
 ---
