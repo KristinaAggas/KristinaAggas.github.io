@@ -23,7 +23,7 @@ My work focuses on:
 - Communicating complex findings clearly  
 
 You can also find all source code on my GitHub:  
-👉 **https://github.com/KristinaAggas**
+👉 **https://github.com/KristinaAggas/KristinaAggas.github.io**
 
 ---
 
