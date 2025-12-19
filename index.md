@@ -22,8 +22,7 @@ My work focuses on:
 - Comparing methods across R, SAS, Python, and SQL 
 - Communicating complex findings clearly  
 
-You can also find all source code on my GitHub:  
-👉 **https://github.com/KristinaAggas/KristinaAggas.github.io**
+You can also find all source code on my GitHub
 
 ---
 
