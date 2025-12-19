@@ -5,7 +5,7 @@ title: "Kristina Aggas – Data Analysis Portfolio"
 
 # **Kristina Aggas**
 _Data Analytics M.S. Candidate (Slippery Rock University, Class of 2027)_  
-_Focus: Predictive Modeling • Statistical Analysis • Python • SQL • SAS_
+_Focus: Predictive Modeling • Statistical Analysis • R • Python • SQL • SAS_
 
 ---
 
@@ -19,7 +19,7 @@ My work focuses on:
 - Data cleaning and feature engineering  
 - Statistical analysis (ANOVA, hypothesis testing, diagnostics)  
 - Exploratory data analysis (EDA)  
-- Comparing methods across Python, SQL, and SAS  
+- Comparing methods across R, SAS, Python, and SQL 
 - Communicating complex findings clearly  
 
 You can also find all source code on my GitHub:  
@@ -29,21 +29,28 @@ You can also find all source code on my GitHub:
 
 ## ⭐ **Featured Project**
 
-### **Bike Share Demand – Regression Modeling (2025-11-14)**
+### **World Data Bank Life Expectancy Prediction - Regression Modeling and Diagnostics**
 
-A full regression analysis exploring how seasonality, weather patterns, and environmental factors influence daily bike rentals.
+A full regression analysis exploring how a country's income, child mortality, and environmental factors influence life expectancy.
 
 **Highlights:**
 - Built multiple linear regression models  
-- Included transformed predictors (e.g., log temperature, humidity)  
+- Included transformed predictors (e.g., log GNI, square-root child mortality)  
 - Examined multicollinearity, VIF, and diagnostics   
 - Produced an interpretable final model explaining rental behavior
 
-👉 **[View project folder](https://github.com/KristinaAggas/data-analysis-projects/tree/main/2025-11-14)**
+👉 **[View project folder](https://github.com/KristinaAggas/data-analysis-projects/tree/main/2025-12-18)**
 
 ---
 
 ## 📂 **Other Projects**
+
+### **Bike Share Demand – Regression Modeling (2025-11-14)**
+
+_A full regression analysis exploring how seasonality, weather patterns, and environmental factors influence daily bike rentals._
+👉 [Open Folder](https://github.com/KristinaAggas/data-analysis-projects/tree/main/2025-11-14)
+
+---
 
 ### **Project – 2025-11-10 - LA Crime Analysis**
 _A Data Camp project where I analyzed Los Angeles crime data to identify patterns in criminal behavior._  

@@ -19,7 +19,7 @@ My work focuses on:
 - Data cleaning and feature engineering  
 - Statistical analysis (ANOVA, hypothesis testing, diagnostics)  
 - Exploratory data analysis (EDA)  
-- Comparing methods across Python, SQL, and SAS  
+- Comparing methods across R, SAS, Python, and SQL 
 - Communicating complex findings clearly  
 
 You can also view my GitHub website here::  
